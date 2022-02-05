@@ -1,7 +1,5 @@
 # @sealsystems/stream-as-string
 
-[![CircleCI](https://circleci.com/gh/sealsystems/node-stream-as-string.svg?style=svg)](https://circleci.com/gh/sealsystems/node-stream-as-string)
-[![AppVeyor](https://ci.appveyor.com/api/projects/status/4vcs1tw39nx3ieea?svg=true)](https://ci.appveyor.com/project/Plossys/node-stream-as-string)
 
 @sealsystems/stream-as-string transforms streams to strings.
 
